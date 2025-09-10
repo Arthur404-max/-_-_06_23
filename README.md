@@ -13,7 +13,7 @@
                 
 Краткий отчёт:
 (1) Экраны: Frame – Phone – iPhone 13 mini
-Элементы интерфейса: Grabber, Stepper (iOS and iPadOS 26); Restangle, Image; Fast Forward (Material 3 Design Kit).
+Элементы интерфейса: Grabber, Stepper (iOS and iPadOS 26); Restangle, Image; Fast Forward (Material 3 Design Kit). ts=4
 (2) Организация Навигации: 
 Домашняя (Grabber) – 1\2 страница
 1\2 страница (Stepper) – 2\2 страница
