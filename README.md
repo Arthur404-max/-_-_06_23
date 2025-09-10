@@ -10,63 +10,23 @@
 <img width="448" height="605" alt="Снимок экрана 2025-09-10 120215" src="https://github.com/user-attachments/assets/78ad072a-8918-4ad8-a001-8a6a56810b39" />
 <img width="448" height="638" alt="Снимок экрана 2025-09-10 120228" src="https://github.com/user-attachments/assets/9ee1dcfb-b766-424a-9d85-a67c929e90c2" />
 
-Краткий отчёт по проекту в Figma
-Экраны и элементы интерфейса
+  
+Краткий отчёт:
 
-Основной экран: Frame – Phone – iPhone 13 mini
+(1) Экраны: Frame – Phone – iPhone 13 mini
 
-Используемые элементы:
+(2) Элементы интерфейса: Grabber, Stepper (iOS and iPadOS 26); Restangle, Image; Fast Forward (Material 3 Design Kit).
 
-Grabber, Stepper (iOS and iPadOS 26)
+(3) Организация Навигации: 
 
-Restangle, Image
+Домашняя (Grabber) – 1\2 страница
 
-Fast Forward (Material 3 Design Kit)
+1\2 страница (Stepper) – 2\2 страница
 
-Организация навигации
-Навигация организована по принципу степпера (попрошайки) между страницами.
+2\2 страница (Stepper) – 1\2 страница
 
-Домашняя (Grabber) -> 1/2 страница
+1\2 страница “Радость” (Grabber) – Радость
 
-1/2 страница (Stepper) -> 2/2 страница
-
-2/2 страница (Stepper) -> 1/2 страница
-
-Навигация к настроениям с первой страницы:
-
-1/2 страница "Радость" (Grabber) -> Радость
-
-Радость (Stepper) -> 1/2 страница
-
-1/2 страница "Грусть" (Grabber) -> Грусть
-
-Грусть (Stepper) -> 1/2 страница
-
-1/2 страница "Злость" (Grabber) -> Злость
-
-Злость (Stepper) -> 1/2 страница
-
-Навигация к настроениям со второй страницы:
-
-2/2 страница "Усталость" (Grabber) -> Усталость
-
-Усталость (Stepper) -> 2/2 страница
-
-2/2 страница "Спокойствие" (Grabber) -> Спокойствие
-
-Спокойствие (Stepper) -> 2/2 страница
-
-2/2 страница "Игривая" (Grabber) -> Игривая
-
-Игривая (Stepper) -> 2/2 страница                
-# Краткий отчёт:
-# (1) Экраны: Frame – Phone – iPhone 13 mini
-# (2) Элементы интерфейса: Grabber, Stepper (iOS and iPadOS 26); Restangle, Image; Fast Forward (Material 3 Design Kit).
-# (3) Организация Навигации: 
-# Домашняя (Grabber) – 1\2 страница
-# 1\2 страница (Stepper) – 2\2 страница
-# 2\2 страница (Stepper) – 1\2 страница
-# 1\2 страница “Радость” (Grabber) – Радость
 # Радость (Stepper) - 1\2 страница
 # 1\2 страница “Грусть” (Grabber) – Грусть
 # Грусть (Stepper) - 1\2 страница
