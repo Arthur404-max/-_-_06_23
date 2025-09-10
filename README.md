@@ -11,13 +11,13 @@
 <img width="448" height="638" alt="Снимок экрана 2025-09-10 120228" src="https://github.com/user-attachments/assets/9ee1dcfb-b766-424a-9d85-a67c929e90c2" />
 
                 
-Краткий отчёт:
-(1) Экраны: Frame – Phone – iPhone 13 mini
-Элементы интерфейса: Grabber, Stepper (iOS and iPadOS 26); Restangle, Image; Fast Forward (Material 3 Design Kit). ts=4
-(2) Организация Навигации: 
-Домашняя (Grabber) – 1\2 страница
-1\2 страница (Stepper) – 2\2 страница
-2\2 страница (Stepper) – 1\2 страница
+# Краткий отчёт:
+# (1) Экраны: Frame – Phone – iPhone 13 mini
+# (2) Элементы интерфейса: Grabber, Stepper (iOS and iPadOS 26); Restangle, Image; Fast Forward (Material 3 Design Kit).
+# (3) Организация Навигации: 
+# Домашняя (Grabber) – 1\2 страница
+# 1\2 страница (Stepper) – 2\2 страница
+# 2\2 страница (Stepper) – 1\2 страница
 1\2 страница “Радость” (Grabber) – Радость
 Радость (Stepper) - 1\2 страница
 1\2 страница “Грусть” (Grabber) – Грусть
